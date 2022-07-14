@@ -1,0 +1,4 @@
+Amal,1,cse,67
+Anu,2,ece,70
+Arun,3,ce,65
+

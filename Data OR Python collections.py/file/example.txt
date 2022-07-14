@@ -1,0 +1,8 @@
+hello
+hi
+hello
+123
+True
+False
+9.8
+
